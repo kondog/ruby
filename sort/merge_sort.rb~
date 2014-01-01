@@ -1,2 +1,0 @@
-if __FILE__ == $0
-  raise "assert" unless [1,2,3] == merge_sort( [1,2,3] )
